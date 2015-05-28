@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicList</string>
+    <string name="music_play">Play</string>
+    <string name="music_pause">Pause</string>
+    <string name="music_stop">Stop</string>
+    <string name="network_error">"network error"</string>
+    <string name="network_error_retry">"network error\nclick retry"</string>
+    <string name="network_success_nodata">"no data\nclick retry"</string>
+    <string name="exit_sys">"Press the Back key to quit the application"</string>
+    <string name="user_title">More</string>
+    <string name="clear_cache_text">Clear cache</string>
+    <string name="clear_cache_data_text">Clear cached data</string>
+    <string name="clear_cache_data_tip">Clear text, images, music and etc in the cache</string>
+    <string name="clear_download_data_text">Clear downloaded data</string>
+    <string name="clear_download_data_tip">Clear all the dowloaded content in one click</string>
+    <string name="playback_setting_text">Playback Setting</string>
+    <string name="wifi_only_text">Play/download only when wifi is available</string>
+    <string name="wifi_only_tip">No playback/download using 2G/3G/4G</string>
+    <string name="misc_text">Miscellenous</string>
+    <string name="share_text">Share with friends</string>
+    <string name="about_us_text">About Us</string>
+    <string name="feedback_text">Feedback</string>
+    <string name="download_data_size">5M (TBD)</string>
+    <string name="clear_cache_data_size">6M (TBD)</string>
+
+</resources>
