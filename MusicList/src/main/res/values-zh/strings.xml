@@ -19,7 +19,7 @@
     <string name="clear_cache_data_text">清除缓存数据</string>
     <string name="clear_cache_data_tip">清除文件，图片，音乐等临时文件</string>
     <string name="misc_text">更多</string>
-    <string name="share_text">Share with friends</string>
+    <string name="share_text">分享给朋友</string>
     <string name="about_us_text">关于我们</string>
     <string name="feedback_text">意见反馈</string>
     <string name="download_data_size">5M</string>

@@ -6,11 +6,17 @@ import android.os.Message;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
+import android.widget.Switch;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.ifun361.musiclist.R;
+
+import java.util.ArrayList;
+import java.util.Arrays;
 
 /**
  * 版权所有 2005-2015 中国日报社网站。 保留所有权利。<br>
@@ -21,11 +27,22 @@ import com.ifun361.musiclist.R;
  * @version 1.0
  * @since JDK1.6
  */
-public class UserFragment extends BaseFragment {
+public class UserFragment extends BaseFragment implements View.OnClickListener, CompoundButton.OnCheckedChangeListener {
+
+	private static final int MENU_CLEAR_CACHE = 0;
+	private static final int MENU_CLEAR_DOWNLOAD = MENU_CLEAR_CACHE + 1;
+	private static final int MENU_SHARE = MENU_CLEAR_DOWNLOAD + 1;
+	private static final int MENU_FEEDBACK = MENU_SHARE + 1;
+	private static final int MENU_ABOUT_US = MENU_FEEDBACK + 1;
 
 	private RelativeLayout mFragmentLayout;
 	private ImageView mPlayerView;
 	private TextView mTitleText;
+	private TextView mCacheSizeView;
+	private TextView mDownloadSizeView;
+	private View mClearCache;
+	private ArrayList<TextView> mMenuView = new ArrayList<TextView>();
+	private Switch mWifiButton;
 
 	private Handler mDataSetHandler = new Handler() {
 		@Override
@@ -53,6 +70,7 @@ public class UserFragment extends BaseFragment {
 			args = getArguments();
 		}
 		initAlbumState(args);
+
 	}
 
 	@Override
@@ -61,9 +79,35 @@ public class UserFragment extends BaseFragment {
 		mFragmentLayout = (RelativeLayout) inflater.inflate(
 				R.layout.fragment_user, null);
 		//mFragmentLayout.setBackgroundResource(R.drawable.bg_sample_03);
+		initView();
+		updateView();
 		return super.onCreateView(inflater, container, savedInstanceState);
 	}
 
+	// set up listeners and view variables
+	private void initView() {
+		/* set up view variables that need to be updated */
+		mCacheSizeView = (TextView) mFragmentLayout.findViewById(R.id.clear_cache_data_size);
+		mDownloadSizeView = (TextView) mFragmentLayout.findViewById(R.id.clear_download_data_size);
+		mWifiButton = (Switch) mFragmentLayout.findViewById(R.id.wifi_only_toggle);
+		mMenuView.add(MENU_CLEAR_CACHE, (TextView) mFragmentLayout.findViewById(R.id.clear_cache_data_text));
+		mMenuView.add(MENU_CLEAR_DOWNLOAD, (TextView) mFragmentLayout.findViewById(R.id.clear_download_data_text));
+		mMenuView.add(MENU_SHARE, (TextView) mFragmentLayout.findViewById(R.id.share));
+		mMenuView.add(MENU_FEEDBACK, (TextView) mFragmentLayout.findViewById(R.id.feedback));
+		mMenuView.add(MENU_ABOUT_US, (TextView) mFragmentLayout.findViewById(R.id.about_us));
+
+		/* set up listeners */
+		mWifiButton.setOnCheckedChangeListener(this);
+		for (int i = 0; i < mMenuView.size(); i ++){
+			mMenuView.get(i).setOnClickListener(this);
+		}
+	}
+
+	//update some static elements of the view
+	private void updateView() {
+		mCacheSizeView.setText("xxxM");
+		mDownloadSizeView.setText("xxxD");
+	}
 	@Override
 	public void onHiddenChanged(boolean hidden) {
 		if (hidden) {
@@ -94,4 +138,34 @@ public class UserFragment extends BaseFragment {
 		setFragmentShowData();
 	}
 
+	@Override
+	public void onClick(View view) {
+		int index = mMenuView.indexOf(view);
+		switch (index){
+			case MENU_CLEAR_CACHE :
+				Toast.makeText(this.getActivity(), "clear cache", Toast.LENGTH_SHORT).show();
+				break;
+			case MENU_CLEAR_DOWNLOAD:
+				Toast.makeText(this.getActivity(), "clear downloaded data", Toast.LENGTH_SHORT).show();
+				break;
+			case MENU_SHARE:
+				Toast.makeText(this.getActivity(), "share", Toast.LENGTH_SHORT).show();
+				break;
+			case MENU_FEEDBACK:
+				Toast.makeText(this.getActivity(), "feedback", Toast.LENGTH_SHORT).show();
+				break;
+			case MENU_ABOUT_US:
+				Toast.makeText(this.getActivity(), "about us", Toast.LENGTH_SHORT).show();
+				break;
+		}
+	}
+
+	@Override
+	public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+		if (b)
+			Toast.makeText(this.getActivity(), "wifi is on", Toast.LENGTH_SHORT).show();
+		else
+			Toast.makeText(this.getActivity(), "wifi if off", Toast.LENGTH_SHORT).show();
+
+	}
 }

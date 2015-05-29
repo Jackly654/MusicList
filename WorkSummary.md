@@ -23,3 +23,9 @@
         `ThemesList currentThemesList =  themesSummaries.get(mViewPager.getCurrentItem());
          int currentTypeId = currentThemesList.targetObject.get(currentThemesList.getTargetId()).getType();
          return PageListener.typedef.values()[currentTypeId].toString();`
+
+# 20150527
+* UserFragment.java
+    - add field variable to control views that need to be updated
+    - add listeners to handle menu items and toggle switch
+    - need to figure out if it's possible to save different types of views in the same arraylist
