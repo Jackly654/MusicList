@@ -41,7 +41,8 @@ public class UserFragment extends BaseFragment implements View.OnClickListener, 
 	private TextView mCacheSizeView;
 	private TextView mDownloadSizeView;
 	private View mClearCache;
-	private ArrayList<TextView> mMenuView = new ArrayList<TextView>();
+	private ArrayList<Object> mMenuView = new ArrayList<Object>();
+	//private ArrayList<TextView> mMenuView = new ArrayList<TextView>();
 	private Switch mWifiButton;
 
 	private Handler mDataSetHandler = new Handler() {
@@ -90,16 +91,17 @@ public class UserFragment extends BaseFragment implements View.OnClickListener, 
 		mCacheSizeView = (TextView) mFragmentLayout.findViewById(R.id.clear_cache_data_size);
 		mDownloadSizeView = (TextView) mFragmentLayout.findViewById(R.id.clear_download_data_size);
 		mWifiButton = (Switch) mFragmentLayout.findViewById(R.id.wifi_only_toggle);
-		mMenuView.add(MENU_CLEAR_CACHE, (TextView) mFragmentLayout.findViewById(R.id.clear_cache_data_text));
-		mMenuView.add(MENU_CLEAR_DOWNLOAD, (TextView) mFragmentLayout.findViewById(R.id.clear_download_data_text));
-		mMenuView.add(MENU_SHARE, (TextView) mFragmentLayout.findViewById(R.id.share));
-		mMenuView.add(MENU_FEEDBACK, (TextView) mFragmentLayout.findViewById(R.id.feedback));
-		mMenuView.add(MENU_ABOUT_US, (TextView) mFragmentLayout.findViewById(R.id.about_us));
+		mMenuView.add(MENU_CLEAR_CACHE, mFragmentLayout.findViewById(R.id.clear_cache_data));
+		mMenuView.add(MENU_CLEAR_DOWNLOAD, mFragmentLayout.findViewById(R.id.clear_download_data));
+		mMenuView.add(MENU_SHARE, mFragmentLayout.findViewById(R.id.share));
+		mMenuView.add(MENU_FEEDBACK, mFragmentLayout.findViewById(R.id.feedback));
+		mMenuView.add(MENU_ABOUT_US, mFragmentLayout.findViewById(R.id.about_us));
 
 		/* set up listeners */
 		mWifiButton.setOnCheckedChangeListener(this);
 		for (int i = 0; i < mMenuView.size(); i ++){
-			mMenuView.get(i).setOnClickListener(this);
+			View v = (View) mMenuView.get(i);
+			v.setOnClickListener(this);
 		}
 	}
 

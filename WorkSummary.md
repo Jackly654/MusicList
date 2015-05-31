@@ -28,4 +28,9 @@
 * UserFragment.java
     - add field variable to control views that need to be updated
     - add listeners to handle menu items and toggle switch
-    - need to figure out if it's possible to save different types of views in the same arraylist
+    - need to figure out if it's possible to save different types of views in the same arraylist. Yes, use ArrayList<Object>.
+* fragment_user.xml
+    - Fine tuning background
+    - Customize toggle switch
+    NOT DONE YET.
+* Learn greeDAO
