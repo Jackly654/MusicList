@@ -19,6 +19,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.ScrollView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.ifun361.musiclist.R;
 import com.ifun361.musiclist.controller.MyThemeController;
@@ -68,6 +69,8 @@ public class ThemeFragment extends BaseFragment implements ThemeCallback  {
 	private BlurToggleUtils mBlurToggleUtils;
 	
 	private PageListener pageListener;
+
+    protected ImageView topTitleLeftIcon;
 
     private static final String ACTION = "scrolled";
 
@@ -133,6 +136,13 @@ public class ThemeFragment extends BaseFragment implements ThemeCallback  {
 				R.layout.fragment_mytheme, null);
 		//TODO viewPager 
 		mViewPager = (FriendlyViewpager) mFragmentLayout.findViewById(R.id.vp_theme);
+        topTitleLeftIcon = (ImageView) getActivity().findViewById(R.id.top_title_left_icon);
+        topTitleLeftIcon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(getActivity(), "onClick", Toast.LENGTH_LONG).show();
+            }
+        });
 		//mViewPager.setGestureDetector(new GestureDetector(new CommonGestureListener()));
 		return super.onCreateView(inflater, container, savedInstanceState);
 	}
@@ -228,6 +238,7 @@ public class ThemeFragment extends BaseFragment implements ThemeCallback  {
 
             }
         });
+
 
 		//mViewPager.setOffscreenPageLimit(21);
 		//int currentItem = mViewPager.getCurrentItem();

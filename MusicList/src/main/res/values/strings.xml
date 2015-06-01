@@ -9,5 +9,9 @@
     <string name="network_error_retry">"network error\nclick retry"</string>
     <string name="network_success_nodata">"no data\nclick retry"</string>
     <string name="exit_sys">"Press the Back key to quit the application"</string>
+    <string name="title_activity_cover_fragment">CoverFragment</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
 
 </resources>
