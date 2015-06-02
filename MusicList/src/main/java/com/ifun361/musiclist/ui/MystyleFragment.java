@@ -9,6 +9,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.ifun361.musiclist.R;
 
@@ -26,6 +27,8 @@ public class MystyleFragment extends BaseFragment {
 	private RelativeLayout mFragmentLayout;
 	private ImageView mPlayerView;
 	private TextView mTitleText;
+
+    protected ImageView topTitleLeftIcon;
 
 	private Handler mDataSetHandler = new Handler() {
 		@Override
@@ -61,10 +64,23 @@ public class MystyleFragment extends BaseFragment {
 		mFragmentLayout = (RelativeLayout) inflater.inflate(
 				R.layout.fragment_mystyle, null);
 		mFragmentLayout.setBackgroundResource(R.drawable.bg_sample_02);
+
+        initView();
 		return super.onCreateView(inflater, container, savedInstanceState);
+
 	}
 
-	@Override
+    private void initView() {
+        topTitleLeftIcon = (ImageView) getActivity().findViewById(R.id.top_title_left_icon);
+        topTitleLeftIcon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(getActivity(), "onClick", Toast.LENGTH_LONG).show();
+            }
+        });
+    }
+
+    @Override
 	public void onHiddenChanged(boolean hidden) {
 		if (hidden) {
 			super.onHiddenChanged(hidden);
@@ -93,5 +109,7 @@ public class MystyleFragment extends BaseFragment {
 	private void initDataSet() {
 		setFragmentShowData();
 	}
+
+
 
 }

@@ -11,6 +11,7 @@ import android.view.Window;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.ifun361.musiclist.R;
 import com.nostra13.universalimageloader.core.DisplayImageOptions;
@@ -61,6 +62,13 @@ public class BaseFragmentActivity extends FragmentActivity {
 	public void setContentView(int layoutResId) {
 		super.setContentView(R.layout.activity_base);
 		titleLayout = (RelativeLayout) findViewById(R.id.base_top_title);
+
+        titleLayout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast.makeText(getApplicationContext(), "onClick", Toast.LENGTH_LONG).show();
+            }
+        });
 		topTitleLeftIcon = (ImageView) findViewById(R.id.top_title_left_icon);
 		topTitleRightIcon = (ImageView) findViewById(R.id.top_title_right_icon);
 		topTitleCenterText = (TextView) findViewById(R.id.top_title_text);
@@ -97,7 +105,7 @@ public class BaseFragmentActivity extends FragmentActivity {
 		topTitleCenterText.setVisibility(center ? View.VISIBLE : View.GONE);
 	}
 
-	
+
 	public void setTitleViewCenterText(String titleView){
 		Log.i(TAG, "setTitleViewCenterText");
 		topTitleCenterText.setText(titleView);
@@ -110,4 +118,5 @@ public class BaseFragmentActivity extends FragmentActivity {
 	public void setTitleViewRightIcon(String uri){
 		imageLoader.displayImage(uri, topTitleRightIcon);
 	}
+
 }

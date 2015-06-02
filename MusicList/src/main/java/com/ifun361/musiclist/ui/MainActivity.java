@@ -221,6 +221,9 @@ public class MainActivity extends BaseFragmentActivity implements
 				setCurrentTag(i);
 			}
 		}
+        if(v.getId()==R.id.top_title_left_icon){
+            Toast.makeText(this,"onClick",Toast.LENGTH_LONG).show();
+        }
 	}
 
 	@Override

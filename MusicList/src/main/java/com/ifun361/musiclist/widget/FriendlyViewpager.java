@@ -5,6 +5,7 @@ import android.support.v4.view.ViewPager;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.GestureDetector;
+import android.view.MotionEvent;
 import android.view.View;
 
 public class FriendlyViewpager extends ViewPager {
@@ -164,5 +165,11 @@ public class FriendlyViewpager extends ViewPager {
 
     public interface OnPageScrolledLisenter{
         public  void scrolled(float offset);
+    }
+
+    @Override
+    public boolean dispatchTouchEvent(MotionEvent ev) {
+
+        return super.dispatchTouchEvent(ev);
     }
 }

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ifun361.musiclist"
     android:versionCode="1"
@@ -16,7 +17,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.RESTART_PACKAGES" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
         android:name=".MusicListApplication"
@@ -30,7 +31,7 @@
             android:name=".ui.SplashActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
-             <intent-filter>
+            <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -52,8 +53,7 @@
             android:name=".ui.TestActivity"
             android:screenOrientation="portrait" >
         </activity>
-        <activity android:name="com.ifun361.music.test.MusicThemesActivity">
-            
+        <activity android:name="com.ifun361.music.test.MusicThemesActivity" >
         </activity>
         <!-- 音乐播放服务 -->
         <service android:name=".service.PlayerService" />
@@ -63,6 +63,11 @@
                 <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
             </intent-filter>
         </receiver>
+
+        <activity
+            android:name=".ui.CoverFragment"
+            android:label="@string/title_activity_cover_fragment" >
+        </activity>
     </application>
 
 </manifest>

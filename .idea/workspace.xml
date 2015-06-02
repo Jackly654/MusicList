@@ -27,12 +27,722 @@
   </component>
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" readonly="true" id="6f185e75-71ad-4b62-8963-58a665d99a35" name="Default" comment="MusicList(not build)" />
 =======
     <list default="true" readonly="true" id="6f185e75-71ad-4b62-8963-58a665d99a35" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ResideMenu/Notes.md" afterPath="$PROJECT_DIR$/ResideMenu/Notes.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+    <list default="true" id="6f185e75-71ad-4b62-8963-58a665d99a35" name="Default" comment="MusicList(not build)">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.2.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.2.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.2.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/special/ResideMenu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/androidTest/debug/com/special/ResideMenu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/debug/com/special/ResideMenu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/release/com/special/ResideMenu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/androidTest/debug/com/special/ResideMenu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/debug/com/special/ResideMenu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/release/com/special/ResideMenu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/aapt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ab_share_pack_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_check_to_on_mtrl_000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_btn_check_to_on_mtrl_000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_btn_check_to_on_mtrl_015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_radio_to_on_mtrl_015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_btn_radio_to_on_mtrl_015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_btn_radio_to_on_mtrl_015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00001.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00001.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_btn_switch_to_on_mtrl_00012.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_cab_background_top_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_cab_background_top_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-hdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_ic_ab_back_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_clear_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_clear_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_clear_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_ic_clear_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_commit_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_commit_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_go_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_go_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-hdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-hdpi/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xhdpi/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_paste_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_menu_paste_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_selectall_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_menu_selectall_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_ic_menu_selectall_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_menu_share_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_menu_share_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_ic_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_ic_voice_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_ic_voice_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_ic_voice_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_ic_voice_search_api_mtrl_alpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_divider_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_list_divider_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_list_focused_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_menu_hardkey_panel_mtrl_mult.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_menu_hardkey_panel_mtrl_mult.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_popup_background_mtrl_mult.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_popup_background_mtrl_mult.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-hdpi/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xhdpi/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xxhdpi/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_spinner_mtrl_am_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_switch_track_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_switch_track_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_tab_indicator_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi/abc_tab_indicator_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_default_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_textfield_default_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_textfield_default_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_search_activated_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_textfield_search_activated_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi/abc_textfield_search_default_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/view/accessibility" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/accessibilityservice" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/aidl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.2.0/aidl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.2.0/aidl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.2.0/aidl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/aidl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/aidl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/aidl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/res/rs/androidTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/aidl/androidTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/androidTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/androidTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/rs/androidTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/res/rs/androidTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/aidl/androidTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/androidTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/androidTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/rs/androidTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/android" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/app" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/android/support/v7/appcompat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi-v7a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.2.0/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.2.0/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.2.0/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/assets" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/facebook/drawee/backends" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.2.0/classes.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.2.0/classes.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.2.0/classes.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/classes.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/classes.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/androidTest/debug/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/debug/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/androidTest/debug/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/debug/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/release/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/androidTest/debug/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/debug/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/release/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/content" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/database" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/res/rs/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/res/rs/androidTest/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/aidl/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/aidl/androidTest/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/androidTest/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/androidTest/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/rs/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/rs/androidTest/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/tmp/dex/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/res/rs/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/res/rs/androidTest/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/aidl/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/aidl/androidTest/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/androidTest/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/androidTest/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/rs/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/rs/androidTest/debug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/tmp/dex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/hardware/display" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/drawable-hdpi-v4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-hdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/drawable-ldpi-v4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-hdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-mdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xhdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xxhdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-ldrtl-xxxhdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/drawable-mdpi-v4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-mdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/drawable-xhdpi-v4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xhdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxhdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable-xxxhdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/graphics/drawable" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/facebook/drawee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/drawee" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/facebook" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fbcore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fresco" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/graphics" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/hardware" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/drawable-hdpi-v4/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/drawable-ldpi-v4/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/drawable-mdpi-v4/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/drawable-xhdpi-v4/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/androidTest/debug/com/ifun361" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/debug/com/ifun361" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/ifun361" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/intermediates" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout-v11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi/libfb_jpegturbo.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi-v7a/libfb_jpegturbo.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/x86/libfb_jpegturbo.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi/libfb_png.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi-v7a/libfb_png.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/x86/libfb_png.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi/libgif.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi-v7a/libgif.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/x86/libgif.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi/libgifimage.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi-v7a/libgifimage.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/x86/libgifimage.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi/libgnustl_shared.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi-v7a/libgnustl_shared.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/x86/libgnustl_shared.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi/libimagepipeline.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi-v7a/libimagepipeline.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/x86/libimagepipeline.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi/libmemchunk.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi-v7a/libmemchunk.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/x86/libmemchunk.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/libs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi/libwebp.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi-v7a/libwebp.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/x86/libwebp.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi/libwebpimage.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/armeabi-v7a/libwebpimage.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/x86/libwebpimage.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/media" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/model_data.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/androidTest/debug/com/ifun361/musiclist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/debug/com/ifun361/musiclist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/ifun361/musiclist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/net" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/libs/nineoldandroids-library-2.4.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/os" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/facebook/drawee/backends/pipeline" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/content/pm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/print" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/provider" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/res/rs/release" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/aidl/release" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/release" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/release" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/rs/release" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/content/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.2.0/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.2.0/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.2.0/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/resources/resources-debug-androidTest.ap_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/intermediates/resources/resources-debug-androidTest.ap_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/resources/resources-debug.ap_" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/intermediates/resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/res/rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/res/rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/rs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/media/session" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/drawable-hdpi-v4/shadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/special" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/androidTest/debug/com/special" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/debug/com/special" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/release/com/special" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/androidTest/debug/com/special" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/debug/com/special" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/release/com/special" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/android/support" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/androidTest/debug/com/ifun361/musiclist/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/androidTest/debug/com/special/ResideMenu/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/androidTest/debug/com/special/ResideMenu/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/text" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/tmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/util" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/android/support/v7" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-af" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bn-rBD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-da" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-de" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-el" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rGB" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rIN" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es-rUS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-et-rEE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-eu-rES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fa" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-gl-rES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hy-rAM" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-is-rIS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-iw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ja" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ka-rGE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kk-rKZ" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-km-rKH" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kn-rIN" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ko" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ky-rKG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-land" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-large" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lo-rLA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ml-rIN" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mn-rMN" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mr-rIN" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ms-rMY" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-my-rMM" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ne-rNP" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-port" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt-rPT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ru" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-si-rLK" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw600dp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ta-rIN" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-te-rIN" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-th" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ur-rPK" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uz-rUZ" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v21" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-vi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w360dp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w480dp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w500dp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w600dp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w720dp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge-land" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rCN" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rHK" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rTW" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.2.0/res/values" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/values" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/view" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/internal/view" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/widget" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/jni/x86" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.2.0/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.2.0/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.2.0/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.2.0/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/aapt/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/androidTest/debug/com/ifun361/musiclist/test/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/buildConfig/debug/com/ifun361/musiclist/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/androidTest/debug/com/special/ResideMenu/test/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/debug/com/special/ResideMenu/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/buildConfig/release/com/special/ResideMenu/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/aidl/android/support/v4/app/INotificationSideChannel.aidl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/facebook/drawee/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/facebook/drawee/backends/pipeline/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/ifun361/musiclist/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/special/ResideMenu/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/androidTest/debug/com/special/ResideMenu/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/androidTest/debug/com/special/ResideMenu/test/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/debug/com/special/ResideMenu/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ResideMenu/build/generated/source/r/release/com/special/ResideMenu/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.2.0/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.2.0/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/R.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_title_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_up_container.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_view_list_nav_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_close_item_material.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_list_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_background_cache_hint_selector_material_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_background_cache_hint_selector_material_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_check_material.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_btn_radio_material.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_internal_bg.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_cab_background_top_material.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_edit_text_material.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_expanded_menu_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_fade_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_item_background_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_checkbox.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_radio.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_background_transition_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_list_selector_holo_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_popup_menu_item_layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_disable_only_material_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_disable_only_material_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_material_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_primary_text_material_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_content_include.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout-v11/abc_screen_content_include.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple_overlay_action_mode.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_toolbar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_dropdown_item_icons_2line.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_search_url_text.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_view.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_secondary_text_material_dark.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/color/abc_secondary_text_material_light.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_simple_dropdown_hint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_in_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/anim/abc_slide_out_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_switch_thumb_material.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_tab_indicator_material.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/drawable/abc_textfield_search_material.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/layout/residemenu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/layout/residemenu_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/support_simple_spinner_dropdown_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-af/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-am/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ar/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bg/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-bn-rBD/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ca/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-cs/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-da/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-de/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-el/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rGB/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-en-rIN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-es-rUS/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-et-rEE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-eu-rES/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fa/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-fr-rCA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-gl-rES/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hu/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-hy-rAM/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-in/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-is-rIS/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-it/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-iw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ja/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ka-rGE/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kk-rKZ/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-km-rKH/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-kn-rIN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ko/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ky-rKG/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-land/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-large/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lo-rLA/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-lv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mk-rMK/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ml-rIN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mn-rMN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-mr-rIN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ms-rMY/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-my-rMM/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nb/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ne-rNP/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-nl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-port/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-pt-rPT/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ro/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ru/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-si-rLK/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sv/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-sw600dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ta-rIN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-te-rIN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-th/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tl/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-tr/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uk/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-ur-rPK/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-uz-rUZ/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v11/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v14/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v17/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-v21/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-vi/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w360dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w480dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w500dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w600dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-w720dp/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-xlarge-land/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rCN/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rHK/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zh-rTW/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/values-zu/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.2.0/res/values/values.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/ms/ResideMenu/unspecified/res/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/MusicList/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/BaseFragmentActivity.java" afterPath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/BaseFragmentActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/utils/BlurToggleUtils.java" afterPath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/utils/BlurToggleUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/EventScrollView.java" afterPath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/EventScrollView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/FriendlyViewpager.java" afterPath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/FriendlyViewpager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/InnerThemeFragment.java" afterPath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/InnerThemeFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/MainActivity.java" afterPath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/MusicList.iml" afterPath="$PROJECT_DIR$/MusicList/MusicList.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/MystyleFragment.java" afterPath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/MystyleFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/ThemeFragment.java" afterPath="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/ThemeFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/build.gradle" afterPath="$PROJECT_DIR$/MusicList/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/MusicList/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MusicList/src/main/res/layout/viewpager_fragment_theme.xml" afterPath="$PROJECT_DIR$/MusicList/src/main/res/layout/viewpager_fragment_theme.xml" />
+    </list>
+    <list id="254c230e-f025-44f7-8a1b-762ad9c8f410" name="Rejected commit: Default" comment="MusicList(not build)">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
     </list>
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
     <list id="254c230e-f025-44f7-8a1b-762ad9c8f410" name="Rejected commit: Default" comment="MusicList(not build)" />
@@ -111,6 +821,7 @@
   <component name="FileEditorManager">
     <leaf>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="EventScrollView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/EventScrollView.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,6 +844,29 @@
                 <element signature="e#6615#6638#0" expanded="true" />
               </folding>
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
+=======
+      <file leaf-file-name="BaseFragmentActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/BaseFragmentActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.2413793" vertical-offset="889" max-vertical-offset="2486">
+              <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+              <folding>
+                <element signature="e#2075#2285#0" expanded="true" />
+                <element signature="e#2274#2275#0" expanded="true" />
+                <element signature="e#2690#2691#0" expanded="true" />
+                <element signature="e#2713#2714#0" expanded="true" />
+                <element signature="e#2753#2754#0" expanded="true" />
+                <element signature="e#2775#2776#0" expanded="true" />
+                <element signature="e#2959#2960#0" expanded="true" />
+                <element signature="e#3005#3006#0" expanded="true" />
+                <element signature="e#3036#3037#0" expanded="true" />
+                <element signature="e#3079#3080#0" expanded="true" />
+                <element signature="e#3559#3560#0" expanded="true" />
+                <element signature="e#3613#3614#0" expanded="true" />
+                <element signature="e#3662#3663#0" expanded="true" />
+                <element signature="e#3717#3718#0" expanded="true" />
+              </folding>
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
             </state>
           </provider>
           <provider editor-type-id="android-designer">
@@ -140,6 +874,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="LazyFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/LazyFragment.java">
@@ -149,10 +884,22 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="activity_base.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/activity_base.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.571428" vertical-offset="0" max-vertical-offset="726">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="39" />
+              <folding />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="FriendlyViewpager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/FriendlyViewpager.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -172,11 +919,22 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="22" column="7" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
+=======
+      <file leaf-file-name="top_title.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/top_title.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.357142" vertical-offset="24" max-vertical-offset="1254">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="ThemeFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/ThemeFragment.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -193,12 +951,35 @@
                 <element signature="e#7345#7346#0" expanded="true" />
                 <element signature="e#7757#8034#0" expanded="true" />
                 <element signature="e#8033#8034#0" expanded="true" />
+=======
+      <file leaf-file-name="MystyleFragment.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/MystyleFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.65724814" vertical-offset="763" max-vertical-offset="2156">
+              <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+              <folding>
+                <element signature="e#2018#2019#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThemeFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/ThemeFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1753" max-vertical-offset="4994">
+              <caret line="141" column="41" selection-start-line="141" selection-start-column="41" selection-end-line="141" selection-end-column="41" />
+              <folding>
+                <element signature="e#4224#4424#0" expanded="true" />
+                <element signature="e#4413#4414#0" expanded="true" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
               </folding>
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="ThemeCoverAdapter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/adapter/ThemeCoverAdapter.java">
@@ -212,11 +993,45 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="182" column="45" selection-start-line="182" selection-start-column="17" selection-end-line="182" selection-end-column="45" />
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
+=======
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicList/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="880">
+              <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="fragment_mystyle.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/fragment_mystyle.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="638">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_user.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/fragment_user.xml">
+          <provider selected="true" editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="638">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="InnerThemeFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/InnerThemeFragment.java">
@@ -225,6 +1040,15 @@
               <caret line="397" column="40" selection-start-line="397" selection-start-column="40" selection-end-line="397" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.206897" vertical-offset="2115" max-vertical-offset="4642">
+              <caret line="118" column="30" selection-start-line="118" selection-start-column="30" selection-end-line="118" selection-end-column="30" />
+              <folding>
+                <element signature="e#5373#5390#0" expanded="true" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
               </folding>
 =======
       <file leaf-file-name="UserFragment.java" pinned="false" current-in-tab="false">
@@ -260,6 +1084,7 @@
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="viewpager_fragment_theme.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/viewpager_fragment_theme.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -268,6 +1093,10 @@
               <folding />
             </state>
           </provider>
+=======
+      <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/activity_main.xml">
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
           <provider editor-type-id="android-designer">
 =======
       <file leaf-file-name="Notes.md" pinned="false" current-in-tab="false">
@@ -289,8 +1118,13 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="0.777027">
               <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+=======
+            <state vertical-scroll-proportion="-12.357142" vertical-offset="1920" max-vertical-offset="2706">
+              <caret line="103" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
               <folding />
             </state>
           </provider>
@@ -1290,9 +2124,14 @@
                 <option name="name" value="prepareComAndroidSupportAppcompatV72103Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:support-v4:21.0.3" />
+                <option name="description" value="Prepare com.android.support:recyclerview-v7:22.0.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/MusicList" />
-                <option name="name" value="prepareComAndroidSupportSupportV42103Library" />
+                <option name="name" value="prepareComAndroidSupportRecyclerviewV72200Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:22.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/MusicList" />
+                <option name="name" value="prepareComAndroidSupportSupportV42200Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.facebook.fresco:drawee:0.2.0" />
@@ -1885,6 +2724,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$/../AnimeTaste" value="11349650477862" />
 <<<<<<< HEAD
         <entry key="$PROJECT_DIR$" value="5714998193303" />
@@ -1892,6 +2732,12 @@
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
         <entry key="$PROJECT_DIR$/../android-testing" value="24132511207399" />
         <entry key="$PROJECT_DIR$/../iosched" value="5678333268533" />
+=======
+        <entry key="$USER_HOME$/AndroidStudioProjects/AnimeTaste" value="11349650477862" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/android-testing" value="24132511207399" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/iosched" value="5678333268533" />
+        <entry key="$PROJECT_DIR$" value="5718543482547" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2057,16 +2903,25 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
+<<<<<<< HEAD
                             <option value="$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/21.0.3/support-v4-21.0.3.aar" />
+=======
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.3/91ac0b4c3a38b721c7548baa239950f23b65b56e/gson-2.2.3.jar" />
                             <option value="$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/appcompat-v7/21.0.3/appcompat-v7-21.0.3.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/fresco/0.2.0/bc76eef7d397487498e922f6121261a2090f6eb2/fresco-0.2.0.aar" />
+<<<<<<< HEAD
                             <option value="$USER_HOME$/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar" />
+=======
+                            <option value="D:/adt-bundle-windows-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/recyclerview-v7/22.0.0/recyclerview-v7-22.0.0.aar" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/imagepipeline/0.2.0/64c28212be47c240ccc842a09be9b0a1cd8f4e28/imagepipeline-0.2.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/drawee/0.2.0/bddb3bf9ab71f6389d7d3a93b338de418a8e2bfd/drawee-0.2.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/fbcore/0.2.0/9664e0b044efe911f7ffb778b2f7a163371b6fa3/fbcore-0.2.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar" />
+                            <option value="D:/adt-bundle-windows-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/22.0.0/support-v4-22.0.0.aar" />
+                            <option value="D:/adt-bundle-windows-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar" />
                             <option value="$MODULE_DIR$/libs/android-async-http-1.4.6.jar" />
                             <option value="$MODULE_DIR$/libs/greendao-1.3.0-beta-1.jar" />
                             <option value="$MODULE_DIR$/libs/renderscript-v8.jar" />
@@ -2231,6 +3086,7 @@
     <option name="CHANGED_PATHS">
       <list>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         <option value="$PROJECT_DIR$/MusicList/src/main/res/values-zh/strings.xml" />
         <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/UserFragment.java" />
@@ -2244,6 +3100,26 @@
         <option value="$PROJECT_DIR$/ResideMenu/Notes.md" />
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
         <option value="$PROJECT_DIR$/README.md" />
+=======
+        <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/MusicListApplication.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/constants/ApiConstants.java" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/utils/BlurToggleUtils.java" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/res/layout/viewpager_fragment_theme.xml" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/EventScrollView.java" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/InnerThemeFragment.java" />
+        <option value="$PROJECT_DIR$/MusicList/build.gradle" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/res/layout/activity_cover_fragment.xml" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/CoverFragment.java" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/MainActivity.java" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/res/layout/activity_base.xml" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/res/layout/fragment_base.xml" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/FriendlyViewpager.java" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/BaseFragmentActivity.java" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/MystyleFragment.java" />
+        <option value="$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/ThemeFragment.java" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
       </list>
     </option>
   </component>
@@ -2355,8 +3231,8 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="1" id="Remove" />
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -2656,6 +3532,7 @@
               <option name="myItemId" value="MusicList" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
@@ -2745,6 +3622,8 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
             </PATH_ELEMENT>
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
+=======
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
           </PATH>
         </subPane>
       </pane>
@@ -2765,9 +3644,15 @@
     <property name="options.searchVisible" value="true" />
     <property name="android.sdk.path" value="D:/adt-bundle-windows-x86_64-20140702/sdk" />
     <property name="recentsLimit" value="5" />
+<<<<<<< HEAD
     <property name="android.project.structure.last.selected" value="ResideMenu" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="00D3060734750EKH" />
+=======
+    <property name="android.project.structure.last.selected" value="MusicList" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="192.168.56.101:5555" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_21_x86" />
     <property name="FullScreen" value="false" />
     <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="368" />
@@ -2826,8 +3711,16 @@
       <recent name="$PROJECT_DIR$/MusicList/src/main/res/layout" />
       <recent name="C:\Users\pengying\Desktop\ms\MusicList\src\main\java\com\ifun361\musiclist\api" />
     </key>
+<<<<<<< HEAD
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ResideMenu" />
+=======
+    <key name="android.template.packageName">
+      <recent name="com.ifun361.musiclist.ui" />
+    </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
     </key>
   </component>
 <<<<<<< HEAD
@@ -3157,8 +4050,13 @@
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="65" y="-4" width="1375" height="904" extended-state="6" />
     <editor active="false" />
+=======
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3169,15 +4067,28 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6693227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5005931" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.669579" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962668" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33042097" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.49940687" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11565978" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" weight="0.3298887" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" x="751" y="545" width="1258" height="400" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20730738" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3264,6 +4175,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/EventScrollView.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -3590,6 +4502,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/EventScrollView.java">
+=======
+    <entry file="file://D:/adt-bundle-windows-x86_64-20140702/sdk/sources/android-21/android/widget/LinearLayout.java">
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="109" column="66" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="66" />
@@ -3622,6 +4537,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../MusicList-master_20150523/MusicList-master/MusicList/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3631,6 +4547,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../MusicList-master_20150523/MusicList-master/MusicList/src/main/res/values-zh/strings.xml">
+=======
+    <entry file="file://D:/adt-bundle-windows-x86_64-20140702/sdk/sources/android-17/android/view/ViewRootImpl.java">
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="12" />
@@ -3829,6 +4748,7 @@
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/fragment_user.xml">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -3847,17 +4767,84 @@
             <element signature="e#6615#6638#0" expanded="true" />
           </folding>
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
+=======
+    <entry file="jar://D:/adt-bundle-windows-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/21.0.3/support-v4-21.0.3-sources.jar!/android/support/v4/app/Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="2120" max-vertical-offset="40898">
+          <caret line="166" column="13" selection-start-line="166" selection-start-column="13" selection-end-line="166" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/adapter/ThemeCoverAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="508" max-vertical-offset="1738">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/LazyFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="1386">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20140702/sdk/sources/android-21/android/view/ViewGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33292383" vertical-offset="115757" max-vertical-offset="157388">
+          <caret line="5388" column="16" selection-start-line="5388" selection-start-column="16" selection-end-line="5388" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/EventScrollView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1668" max-vertical-offset="2838">
+          <caret line="109" column="66" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/activity_cover_fragment.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="786">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/PageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="594" max-vertical-offset="1694">
+          <caret line="58" column="53" selection-start-line="58" selection-start-column="53" selection-end-line="58" selection-end-column="53" />
+          <folding />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
         </state>
       </provider>
       <provider editor-type-id="android-designer">
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/clear_download_data.xml">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
           <caret line="100" column="16" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+=======
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/CoverFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="858">
+          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
           <folding />
 =======
         <state vertical-scroll-proportion="0.8648649">
@@ -3873,6 +4860,7 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/BaseFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3882,15 +4870,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7888889">
           <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+=======
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/viewpager_fragment_theme.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="574" max-vertical-offset="2376">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/fragment_mytheme.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.214286" vertical-offset="0" max-vertical-offset="506">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/clear_cache_data.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.8445946">
           <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
+=======
+        <state vertical-scroll-proportion="-18.862068" vertical-offset="421" max-vertical-offset="7128">
+          <caret line="47" column="47" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
           <folding>
             <element signature="e#1346#1377#0" expanded="true" />
           </folding>
@@ -3900,6 +4913,7 @@
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/UserFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3908,15 +4922,63 @@
 =======
           <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
+=======
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/fragment_base.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-21.785715" vertical-offset="380" max-vertical-offset="1166">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
           <folding />
         </state>
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/LazyFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+=======
+    <entry file="file://D:/adt-bundle-windows-x86_64-20140702/sdk/sources/android-21/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33292383" vertical-offset="134853" max-vertical-offset="450208">
+          <caret line="6303" column="19" selection-start-line="6303" selection-start-column="19" selection-end-line="6303" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/build/generated/source/r/debug/com/ifun361/musiclist/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34407216" vertical-offset="34493" max-vertical-offset="126940">
+          <caret line="1585" column="32" selection-start-line="1585" selection-start-column="32" selection-end-line="1585" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/adt-bundle-windows-x86_64-20140702/sdk/sources/android-21/android/app/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25184274" vertical-offset="75695" max-vertical-offset="131736">
+          <caret line="3632" column="53" selection-start-line="3632" selection-start-column="53" selection-end-line="3632" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar!/android/support/v4/app/FragmentActivity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14175257" vertical-offset="0" max-vertical-offset="2772">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/InnerThemeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3703" max-vertical-offset="9438">
+          <caret line="201" column="85" selection-start-line="201" selection-start-column="85" selection-end-line="201" selection-end-column="85" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -3928,8 +4990,9 @@
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/ThemeFragment.java">
+    <entry file="jar://$PROJECT_DIR$/MusicList/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar!/android/support/v4/view/ViewPager.class">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
 <<<<<<< HEAD
           <caret line="219" column="74" selection-start-line="219" selection-start-column="74" selection-end-line="219" selection-end-column="74" />
@@ -3945,21 +5008,32 @@
             <element signature="e#8033#8034#0" expanded="true" />
           </folding>
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
+=======
+        <state vertical-scroll-proportion="0.14175257" vertical-offset="0" max-vertical-offset="7810">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/PageListener.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
 <<<<<<< HEAD
           <caret line="157" column="17" selection-start-line="157" selection-start-column="17" selection-end-line="157" selection-end-column="17" />
 =======
           <caret line="22" column="7" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
+=======
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3850">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/widget/EventScrollView.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -3970,19 +5044,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25263157">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="41" />
+=======
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/top_title.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.357142" vertical-offset="24" max-vertical-offset="1254">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="182" column="45" selection-start-line="182" selection-start-column="17" selection-end-line="182" selection-end-column="45" />
 >>>>>>> a2f30b416bd25c1f0853d147a411194449653907
+=======
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/fragment_user.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="638">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/drawable-xhdpi/bg_sample_03.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/UserFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41400492" vertical-offset="697" max-vertical-offset="1782">
+          <caret line="62" column="63" selection-start-line="62" selection-start-column="63" selection-end-line="62" selection-end-column="63" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/viewpager_fragment_theme.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -3991,6 +5098,25 @@
           <folding />
         </state>
       </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/fragment_mystyle.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="638">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/drawable-xhdpi/bg_sample_02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/activity_main.xml">
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
       <provider editor-type-id="android-designer">
 =======
     <entry file="file://$PROJECT_DIR$/WorkSummary.md">
@@ -4006,8 +5132,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ResideMenu/Notes.md">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="-7.064516">
           <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="-12.357142" vertical-offset="1920" max-vertical-offset="2706">
+          <caret line="103" column="20" selection-start-line="103" selection-start-column="20" selection-end-line="103" selection-end-column="20" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
           <folding />
         </state>
       </provider>
@@ -4016,6 +5147,7 @@
         <state />
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -4023,6 +5155,77 @@
           <caret line="397" column="40" selection-start-line="397" selection-start-column="40" selection-end-line="397" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/res/layout/activity_base.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.571428" vertical-offset="0" max-vertical-offset="726">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/BaseFragmentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.2413793" vertical-offset="889" max-vertical-offset="2486">
+          <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+          <folding>
+            <element signature="e#2075#2285#0" expanded="true" />
+            <element signature="e#2274#2275#0" expanded="true" />
+            <element signature="e#2690#2691#0" expanded="true" />
+            <element signature="e#2713#2714#0" expanded="true" />
+            <element signature="e#2753#2754#0" expanded="true" />
+            <element signature="e#2775#2776#0" expanded="true" />
+            <element signature="e#2959#2960#0" expanded="true" />
+            <element signature="e#3005#3006#0" expanded="true" />
+            <element signature="e#3036#3037#0" expanded="true" />
+            <element signature="e#3079#3080#0" expanded="true" />
+            <element signature="e#3559#3560#0" expanded="true" />
+            <element signature="e#3613#3614#0" expanded="true" />
+            <element signature="e#3662#3663#0" expanded="true" />
+            <element signature="e#3717#3718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.206897" vertical-offset="2115" max-vertical-offset="4642">
+          <caret line="118" column="30" selection-start-line="118" selection-start-column="30" selection-end-line="118" selection-end-column="30" />
+          <folding>
+            <element signature="e#5373#5390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/ThemeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1753" max-vertical-offset="4994">
+          <caret line="141" column="41" selection-start-line="141" selection-start-column="41" selection-end-line="141" selection-end-column="41" />
+          <folding>
+            <element signature="e#4224#4424#0" expanded="true" />
+            <element signature="e#4413#4414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="880">
+          <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusicList/src/main/java/com/ifun361/musiclist/ui/MystyleFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.65724814" vertical-offset="763" max-vertical-offset="2156">
+          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+          <folding>
+            <element signature="e#2018#2019#0" expanded="true" />
+>>>>>>> d1ba7126f9494e55e6a388b97e65bba091f1efe9
           </folding>
 =======
         <state vertical-scroll-proportion="0.777027">
